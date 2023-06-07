@@ -5,7 +5,7 @@ https://mowned.com/demo
 https://github.com/CryoportFinance/MintNFT/blob/main/src/pages/Landing.jsx
 
 
-MhGeorge001
+
 
 @protocol_47
 
